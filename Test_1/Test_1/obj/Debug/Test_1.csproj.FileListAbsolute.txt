@@ -1,0 +1,11 @@
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\bin\Debug\Test_1.exe.config
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\bin\Debug\Test_1.exe
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\bin\Debug\Test_1.pdb
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.csproj.AssemblyReference.cache
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.Form1.resources
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.Properties.Resources.resources
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.csproj.GenerateResource.cache
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.exe
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.pdb
+D:\Cấu trúc dữ liệu và giải thuật\A3\Test_1\Test_1\obj\Debug\Test_1.A2.resources
